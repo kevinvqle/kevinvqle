@@ -10,14 +10,8 @@
   
 <h3> I've worked with... <h3>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/-Web-green?style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/-SQL-red?style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/-Data Science-yellow?style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 </p>
 
 <p align="center">
@@ -33,9 +27,9 @@
   
   <!--Resume-->
   <a>📄 Here's my </a>
-  <a href="./media/resume.pdf">resumé</a>
+  <a href="./media/">resumé</a>
   <img src="https://img.shields.io/badge/Updated-8--12--21-lightgrey?logoColor=red">
   
   <!--Email-->
-  <a>📫 You can reach me at **jstitt007@gmail.com**</a>
+  <a>📫 You can reach me at kevinvqle@gmail.com</a>
 </div> 
