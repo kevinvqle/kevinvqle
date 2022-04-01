@@ -2,9 +2,6 @@
 <h1 align="center">Hello! My name is Kevin Le </h1>
 <h3 align="center"> Interested in Web Development and software engineer</h3>
 
-<p align="center">
-  <img width="900" height="300" src="https://thumbs.gfycat.com/LikelyUnitedArachnid-size_restricted.gif">
-</p>
 
 <p align="left">
   
