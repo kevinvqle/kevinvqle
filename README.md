@@ -35,9 +35,9 @@
   <a href="https://github.com/kevinvqle?tab=repositories"> here</a>
   
   <!--Resume-->
-  <a>📄 Here's my </a>
+  <a> My resume:  </a>
   <a href="./uploads/file:///C:/Users/kevin/Downloads/Resume_2022.pdf">resumé</a>
   
   <!--Email-->
-  <a>📫 You can reach me at kevinvqle@gmail.com</a>
+  <a> My email: kevinvqle@gmail.com</a>
 </div> 
