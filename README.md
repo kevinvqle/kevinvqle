@@ -1,6 +1,6 @@
 
-<h1 align="center">Hello World, I'm Justin Stitt 🙋‍♂️🌎 </h1>
-<h3 align="center">Budding Programmer <em>with</em> interests in AI and Problem-Solving</h3>
+<h1 align="center">Hello! My name is Kevin Le </h1>
+<h3 align="center"> Interested in Web Development and software engineer</h3>
 
 <p align="center">
   <img width="900" height="300" src="/media/githubprofilegif1.gif">
