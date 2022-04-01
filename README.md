@@ -31,7 +31,7 @@
 <div style="margin-bottom: 10px"> 
   
   <!--Projects-->
-  <a>✔  Some of my projects are available </a>
+  <a>My projects: </a>
   <a href="https://github.com/kevinvqle?tab=repositories"> here</a>
   
   <!--Resume-->
