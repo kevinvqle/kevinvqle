@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello! My name is Kevin Le </h1>
-<h3 align="center"> Interested in Web Development and software engineer</h3>
+<h3 align="center"> Interested in Aerospace and Web Development</h3>
 
 
 <p align="left">
